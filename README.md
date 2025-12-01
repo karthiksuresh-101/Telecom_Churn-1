@@ -23,8 +23,9 @@ To compute churn rate, revenue impact, segmentation, and behavioural patterns us
 ### **Tableau**
 To design a dashboard that directly answers each business question.
 
-## Code
-[Python code:](Python.py.md)
+## Codes
+Python workspace:
+[Jupyter Notebook](Python.py)
 
 
 
