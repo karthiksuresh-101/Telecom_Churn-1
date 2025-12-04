@@ -17,29 +17,19 @@ tenure_bins = []            # Tenure grouping thresholds for lifecycle analysis
 tenure_labels = []          # Labels for grouped tenure ranges
 ```
 
-## How to run:
-### Install dependencies
-```python
-pip install -r requirements.txt
-```
-###
+## How to Explore the Analysis
 
+## This project is fully contained inside one notebook:
 
+** telecom_churn_analysis.ipynb **
 
+This notebook includes the complete workflow:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Data loading
+- Preprocessing (missing values, data types, feature creation)
+- Exploratory Data Analysis (EDA)
+- VisualizationsChurn segment analysis
+- Exporting cleaned data to connect with the dashboard
 
 
 
@@ -48,20 +38,6 @@ pip install -r requirements.txt
 
 Karthik Suresh — Data Analyst | Portfolio: (link to your Notion or portfolio)
 Email: (your email) — LinkedIn: (your LinkedIn)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
