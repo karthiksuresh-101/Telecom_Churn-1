@@ -33,10 +33,10 @@ To design a dashboard that directly answers each business question.
 
 ## Codes
 Python analysis:
-[Jupyter Notebook](jupyter_proj_1.ipynb)
+[Jupyter Notebook](Code.ipynb)
 
 SQL analysis:
-
+[MySql](xyz)
 
 ## Dashboard 
 
