@@ -6,6 +6,8 @@ This project is an end-to-end churn analysis built using **Python**, **SQL**, an
 
 [dashboard](README.md#dashboard)
 
+[codes](README.md#Codes)
+
 The goal is to identify key churn drivers, quantify revenue loss, and highlight customer segments needing targeted retention strategies.
 This portfolio project demonstrates:
 - Real-world data cleaning & preprocessing
