@@ -3,7 +3,8 @@
 This project is an end-to-end churn analysis built using **Python**, **SQL**, and **Tableau .** 
 
 [file to go](https://github.com/karthiksuresh-101/Telecom_Churn-1/blob/main/README.md#dashboard)
-[dashboard](Dashboard)
+
+[dashboard](Codes)
 
 The goal is to identify key churn drivers, quantify revenue loss, and highlight customer segments needing targeted retention strategies.
 This portfolio project demonstrates:
