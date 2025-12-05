@@ -1,4 +1,5 @@
 # Telecom_Customer_Churn_Analysis:
+
 ## Project Description
 This project is an end-to-end churn analysis built using Python, SQL, and Tableau to explore customer behavior and identify churn drivers in a telecom dataset (Kaggle: Telco Customer Churn).
 
@@ -29,7 +30,7 @@ Notes:
 
 
 
-## How to Run :
+## How to Run 
 1. **Clone the repo**   
 ```
 git clone https://github.com/<your-username>/<repo-name>.git 
@@ -65,7 +66,7 @@ You are free to use, modify, and distribute the code as long as the original lic
 See the [**LICENSE**](license.txt) file for full details.
 
 
-## Contact / About the author
+## Contact
 If you have questions, suggestions, or opportunities to collaborate, feel free to reach out:\
 
 Karthik Suresh
