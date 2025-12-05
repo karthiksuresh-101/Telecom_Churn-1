@@ -7,15 +7,27 @@ Unlike a typical churn project, this analysis was intentionally designed to simu
 The result is a stakeholder-driven churn insights dashboard, highlighting churn risk, service adoption patterns, payment friction, high-value customer loss, and tenure-based churn behavior.
 
 
-## Program parameters
-```
-input_file = str            # Path to raw Telco Customer Churn dataset (CSV)
-output_file = str           # Path for cleaned dataset export
-numeric_fields = []         # Numeric columns to convert (e.g., TotalCharges)
-service_columns = []        # Service subscription fields used for pivot/EDA
-tenure_bins = []            # Tenure grouping thresholds for lifecycle analysis
-tenure_labels = []          # Labels for grouped tenure ranges
-```
+## Dataset
+
+Source: Kaggle - Teleco Customer Churn
+
+Get the dataset from: [raw_data](Data.csv)
+
+Key field used: ``customerID, gender, SeniorCitizen, Partner, Dependents, tenure, Contract, PaymentMethod, MonthlyCharges, TotalCharges, InternetService, Churn``
+
+Notes:
+- Handled missing values and type conversions .
+- Created derived columns: `tenure_group`, `monthly_revenue_lost`
+
+
+## Tools and libraries
+- Dashboard: Tableau 
+- Data cleaning & analysis: Python (pandas)
+- Visuals & charts: Matplotlib,Seaborn and Tableau visuals
+- Notebook: Jupyter Notebook 
+- Version control & hosting: GitHub
+
+
 
 ## How to Run
 1. **Clone the repo**   
