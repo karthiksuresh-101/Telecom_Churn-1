@@ -11,7 +11,7 @@ The result is a stakeholder-driven churn insights dashboard, highlighting churn 
 
 Source: Kaggle - Teleco Customer Churn
 
-Get the dataset from: [raw_data](Data.csv)
+Get the dataset from: [raw_data](Data(raw).csv)
 
 Key field used: ``customerID, gender, SeniorCitizen, Partner, Dependents, tenure, Contract, PaymentMethod, MonthlyCharges, TotalCharges, InternetService, Churn``
 
