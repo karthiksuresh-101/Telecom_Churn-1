@@ -29,7 +29,7 @@ Notes:
 
 
 
-## How to Run
+## How to Run :
 1. **Clone the repo**   
 ```
 git clone https://github.com/<your-username>/<repo-name>.git 
@@ -41,9 +41,11 @@ This project uses common Python analytics libraries:
 pip install pandas numpy matplotlib seaborn
 ```
 
-3. **Run the Script**
+3. **Run the Script or Explore Analysis :**
    
 ``Run this inside your notebook``: [Telecom_Churn_Notebook.py](Telecom_Churn_Notebook.py)
+
+``Explore Analysis here``: [Notebook Preview](Teleco_Notebook.ipynb) 
 
 4. **Dashboard**
 
