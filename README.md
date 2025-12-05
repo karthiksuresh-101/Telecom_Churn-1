@@ -23,7 +23,7 @@ Notes:
 
 ## Tools and libraries
 - Dashboard: Tableau 
-- Data cleaning & analysis: Python (pandas)
+- Data cleaning & analysis: Python (pandas), SQL(MySQL)
 - Visuals & charts: Matplotlib,Seaborn and Tableau visuals
 - Notebook: Jupyter Notebook 
 - Version control & hosting: GitHub
